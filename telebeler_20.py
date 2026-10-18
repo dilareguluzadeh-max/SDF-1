@@ -4,8 +4,8 @@ BMU — Maşın Öyrənmənin Əsasları (SDF 1)
 20 tələbənin 5 varianta (A–E) bərabər bölgüsü — hər varianta dəqiq 4 tələbə.
 
 Qayda (index.html ilə EYNİ): variant = VARIANTLAR[(sira_no - 1) % 5]
-  1, 6, 11, 16 → A    2, 7, 12, 17 → B    3, 8, 13, 18 → C
-  4, 9, 14, 19 → D    5, 10, 15, 20 → E
+  1, 6, 11, 16, 24 → A    2, 7, 12, 17, 25 → B    3, 8, 13, 18 , 26→ C
+  4, 9, 14, 19 , 27 → D    5, 10, 15, 20, 28 → E
 
 Tələbə portala daxil olarkən "Sıra nömrəsi" xanasına bu siyahıdakı nömrəsini yazır.
 
