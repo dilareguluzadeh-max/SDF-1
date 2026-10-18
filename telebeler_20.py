@@ -26,7 +26,7 @@ if sys.platform == "win32":
         pass
 
 VARIANTLAR = ["A", "B", "C", "D", "E"]
-QRUP_OLCUSU = 20
+QRUP_OLCUSU = 25
 
 
 def variant_for(sira_no):
